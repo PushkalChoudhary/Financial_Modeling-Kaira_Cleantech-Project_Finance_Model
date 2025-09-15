@@ -80,7 +80,7 @@ The model includes built-in sensitivity checks for:
 
 ##  Repository Structure
 - Kaira Cleantech Financial Model.xlsx
-- Kaira Cleantech Case Overview.pdf # Main Excel model
+- Kaira Cleantech Case Overview.pdf 
 - README.md
 
 
